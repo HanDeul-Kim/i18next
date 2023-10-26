@@ -1,0 +1,14 @@
+{
+    "learn": "リアクト環境でi18nextを適用し<br>多言語処理が可能なページを作ろう。",
+    "description": "説明",
+    "name1": "城",
+    "name2": "名前",
+    "age": "年齢",
+    "memberName1-1": "キム",
+    "memberName1-2": "・ハン",
+    "memberName2-1": "ギルドン",
+    "memberName2-2": "ホン",
+    "memberName3-1": " ガラス",
+    "memberName3-2": "イ",
+    "implemented": "実装された"
+}

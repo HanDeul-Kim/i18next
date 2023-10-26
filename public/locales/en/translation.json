@@ -1,0 +1,14 @@
+{
+    "learn": "Let’s apply i18next in a React environment and<br>reate a page that can handle multiple languages.",
+    "description": "description",
+    "name1": "First name",
+    "name2": "Last name",
+    "age": "Age",
+    "memberName1-1": "Handeul,",
+    "memberName1-2": "Kim",
+    "memberName2-1": "Gildong",
+    "memberName2-2": "Hong",
+    "memberName3-1": "Yuri",
+    "memberName3-2": "Lee",
+    "implemented": "implemented"
+}

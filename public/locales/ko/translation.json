@@ -1,0 +1,14 @@
+{
+    "learn": "리액트 환경에서 i18next를 적용하고<br>다국어 처리가 가능한 페이지를 만들어 보자.",
+    "description": "설명",
+    "name1": "성",
+    "name2": "이름",
+    "age": "나이",
+    "memberName1-1": "한들",
+    "memberName1-2": "김",
+    "memberName2-1": "길동",
+    "memberName2-2": "홍",
+    "memberName3-1": "유리",
+    "memberName3-2": "이",
+    "implemented": "구현"
+}
