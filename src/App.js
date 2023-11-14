@@ -106,7 +106,7 @@ function Header() {
     return (
         <>
             <header className="header">
-                <div class="logo">Logo</div>
+                <div className="logo">Logo</div>
                 <div className="middle">MENU</div>
                 <FormControl fullWidth>
                     <InputLabel id="demo-simple-select-label">언어선택</InputLabel>
